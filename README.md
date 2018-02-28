@@ -16,7 +16,7 @@ TOME(@shinhirota)氏が作成したFakeTwitterを改変したものです。
 
 # Example
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">全てのツイートがいやな内容になる Chrome 拡張を試している<br>これは怖い <a href="https://t.co/3bLD0L0Zdv">pic.twitter.com/3bLD0L0Zdv</a></p>&mdash; TOME＠アルバイト (@shinhirota) <a href="https://twitter.com/shinhirota/status/839341958862557186">2017年3月8日</a></blockquote>
+mendoi
 
 ![](https://pbs.twimg.com/media/C6XxCw-U8AEszV5.jpg)
 
