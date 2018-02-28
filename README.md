@@ -18,7 +18,6 @@ TOME(@shinhirota)氏が作成したFakeTwitterを改変したものです。
 
 mendoi
 
-![](https://pbs.twimg.com/media/C6XxCw-U8AEszV5.jpg)
 
 # Third-party software
 - jQuery 3.1.1 is developed by the jQuery Foundation.
