@@ -22,5 +22,7 @@ mendoi
 # Third-party software
 - jQuery 3.1.1 is developed by the jQuery Foundation.
 
-2017.Mar.08
-Shin Hirota
+2018.02.28
+takaoka
+
+(c)Shin Hirota
